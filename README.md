@@ -1,7 +1,7 @@
 # Sorin Modified Dark
 A fork of the ohmyzsh official [sorin](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#sorin) theme for zsh for dark mode. The original theme did not highlight the dirty state of a git folder. Added a small change for the same and changed the colors a bit.
 
-### Installation
+### Installation/Setup
 
 #### Option1
 - Download the theme from [here](https://raw.githubusercontent.com/hrmeetsingh/sorin-modified-dark/main/sorin-modified-dark.zsh-theme)
